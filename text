@@ -1,0 +1,166 @@
+<h3>Preços</h3>
+    <p>Segunda á Quarta</p>
+    <ul>
+        <li>
+            Almoço: R$89,49
+        </li>
+        <li>
+            Jantar: R$98,99
+        </li>
+        <li>
+            Aniversariantes: R$75,50
+        </li>
+    </ul>
+    <p>
+        Quinta á Sabado:
+    </p>
+    <ul>
+        <li>
+            Almoço: R$100,86
+        </li>
+        <li>
+            Jantas: R$125,89
+        </li>
+        <li>
+            Aniversariantes: R$97,89
+        </li>
+    </ul>
+    <p><b>OBS:</b> Aniversariantes tem direito a bolo e uma sobremesa fora do menu tradicional</p>
+
+    <h3>Menu de bebidas</h3>
+    <ul>
+        <li>
+            <details>
+                <summary style="font-size: 20px;">
+                    <strong>
+                        Sakes
+                    </strong>
+                </summary>
+                <ul>
+                    <li>
+                        Sake Tradicional (180 ml): R$ 48,00
+                    </li>
+                    <li>
+                        Sake Premium (180 ml): R$ 72,00
+                    </li>
+                    <li>
+                        Sake Gelado (300 ml): R$ 95,00
+                    </li>
+                </ul>
+            </details>
+        </li>
+
+        <li>
+            <details>
+                <summary style="font-size: 20px;">
+                    <strong>
+                        Vinhos
+                    </strong>
+                </summary>
+                <ul>
+                    <li>
+                        Vinho Rosé (garrafa): R$ 198,00
+                    </li>
+                    <li>
+                        Vinho Branco (garrafa): R$ 210,00
+                    </li>
+                    <li>
+                        Vinho Tinto (garrafa): R$ 220,00
+                    </li>
+                </ul>
+            </details>
+        </li>
+        <li>
+            <details>
+                <summary style="font-size: 20px;">
+                    <strong>
+                        Cervejas
+                    </strong>
+                </summary>
+                <ul>
+                    <li>
+                        Kirin Ichiban (long neck): R$ 22,00
+                    </li>
+                    <li>
+                        Asahi Super Dry (long neck): R$ 24,00
+                    </li>
+                    <li>
+                        Cerveja Nacional (long neck): R$ 18,00
+                    </li>
+                </ul>
+            </details>
+        </li>
+        <li>
+            <details>
+                <summary style="font-size: 20px;">
+                    <strong>
+                        Drinks & Coquetéis
+                    </strong>
+                </summary>
+                <ul>
+                    <li>
+                        Mojito de Yuzu: R$ 38,00
+                    </li>
+                    <li>
+                        Saketini Clássico: R$ 42,00
+                    </li>
+                    <li>
+                        Spritz Oriental: R$ 36,00
+                    </li>
+                </ul>
+            </details>
+        </li>
+        <li>
+            <details>
+                <summary style="font-size: 20px;">
+                    <strong>
+                        Não alcoólicas
+                    </strong>
+                </summary>
+                <ul>
+                    <li>
+                        Água Mineral (com / sem gás): R$ 8,00
+                    </li>
+                    <li>
+                        Refrigerante: R$ 12,00
+                    </li>
+                    <li>
+                        Chá Gelado de Chá Verde: R$ 14,00
+                    </li>
+                    <li>
+                        Suco Natural (Laranja / Uva): R$ 16,00
+                    </li>
+                </ul>
+            </details>
+        </li>
+    </ul>
+    <details>
+        <summary style="font-size: 24px;">
+            <strong>
+                Comidas do Menu
+            </strong>
+        </summary>
+        <ul>
+            <li>
+                Sashimi de salmão
+            </li>
+            <img src="imagens/sashimi-comida-japonesa.webp" width="150">
+            <li>
+                Sushi de salmão
+            </li>
+            <img src="./imagens/Sushi_Salmão.jpg" width="150">
+            <li>
+                Hot Filadélfia
+            </li>
+            <img src="./imagens/Hot_Filadelfia.jpg" width="150">
+            <li>
+                Sunomono
+            </li>
+            <img src="./imagens/Sunomono.jpg" width="150">
+            <li>
+                Tempurá de camarão
+            </li>
+            <img src="./imagens/Tempura_Camarão.jpg" width="150">
+        </ul>
+    </details>
+    <h3>Para cadastro e agendamento<a style="color: rgb(163, 202, 236);" href="Cadastro.html"> clique aqui</a></h3>

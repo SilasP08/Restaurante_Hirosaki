@@ -80,12 +80,11 @@ label {
     outline: none;
 }
 
-.botao:focus,
-.botao:active,
-.botao:focus-visible {
-    outline: none;
-    box-shadow: none;
+.button:hover {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.336); 
+    transform: scale(1.05);
 }
+
 .voltar {
   position: absolute;
   left: 20px;

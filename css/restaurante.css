@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../imagens/fundo_2.png);
+    color: aliceblue;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    background-attachment: fixed;
+}
+
+header {
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.555);
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    width: 100%;
+}
+
+
+.bem-vindo {
+    width: 100%;
+}
+
+.login {
+    text-decoration: none;
+    text-align: center;
+    background-color: rgb(85, 23, 23);
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.login:focus {
+    transition: 10ms;
+}
+
+.login:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.507);
+}
+
+.login a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.centro {
+
+    height: auto;
+    width: auto;
+}
+
+.sobre {
+    margin-top: 100px;
+    width: 950px;
+    padding: 100px;
+    justify-content: center;
+    position: relative;
+    font-size: 20px;
+}
+
+.sobre h3 {
+    font-size: 40px;
+    text-align: justify;
+}
+
+.precos {
+    margin-top: -25px;
+    font-size: 25px;
+    width: 950px;
+    padding: 90px;
+}
+
+.precos ul {
+    list-style-type: none;
+}
+
+.precos p {
+    margin-left: 20px;
+}
+
+.precos li {
+    margin-left: 45px;
+}
+
+.bebidas {
+    margin-top: -25px;
+    width: 950px;
+    padding: 100px;
+    font-size: 25px;
+}
+
+.bebidas ul {
+    list-style-type: none;
+}
+
+.ponto-prin {
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.ponto-sec {
+    margin-left: 45px;
+    font-size: 20px;
+}
+
+.menu {
+    margin-top: -25px;
+    width: 950px;
+    padding: 100px;
+    font-size: 25px;
+}
+
+.menu ul {
+    list-style-type: none;
+}
